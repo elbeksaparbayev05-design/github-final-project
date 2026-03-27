@@ -1,0 +1,26 @@
+{
+  "name": "mcino-introduction-to-git-and-github",
+  "version": "1.0.0",
+  "description": "This repository contains a Bash script to calculate simple interest based on user input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elbeksaparbayev05-design/github-final-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/elbeksaparbayev05-design/github-final-project/issues"
+  },
+  "homepage": "https://github.com/elbeksaparbayev05-design/github-final-project#readme",
+  "devDependencies": {
+    "jasmine": "^6.1.0",
+    "webpack": "^5.105.4",
+    "webpack-cli": "^7.0.2"
+  }
+}
